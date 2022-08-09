@@ -7,6 +7,7 @@ export default function Home() {
     <div>
       <Link href='/blog/3'>
         <a>ブログページNEW（next/link）</a>
+        <p>aaaaaaaa</p>
       </Link>
       
       <a href='/hello'>ブログページ（a タグ）</a>
