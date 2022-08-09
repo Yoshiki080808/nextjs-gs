@@ -7,10 +7,9 @@ export default function Home() {
     <div>
       <Link href='/blog/3'>
         <a>ブログページNEW（next/link）</a>
-        <p>gggggggggggg</p>
       </Link>
       
-  
+      <p>gggggggggggg</p>
       <img src='/vercel.svg' />
       <div>Hello World!</div>
       <Image
